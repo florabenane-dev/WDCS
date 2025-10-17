@@ -1,1 +1,6 @@
 ../glassfish-7.0.24/
+
+.idea/
+*.iml
+.vscode/
+
