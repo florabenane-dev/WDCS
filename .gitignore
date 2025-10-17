@@ -4,7 +4,9 @@
 *.iml
 .vscode/
 
-target/
+*/target/
+
+*/ressources/
 
 ImagesCategories/
 
